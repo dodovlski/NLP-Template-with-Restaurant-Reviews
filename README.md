@@ -165,6 +165,3 @@ This project demonstrates a sentiment analysis pipeline on review data using Pyt
 
 4. Run the script to preprocess the data, train the model, and evaluate its performance.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
