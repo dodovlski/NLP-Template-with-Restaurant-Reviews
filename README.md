@@ -1,6 +1,6 @@
 # Sentiment Analysis on Reviews using Naive Bayes
 
-This project demonstrates a sentiment analysis pipeline on review data using Python. The pipeline includes data preprocessing, feature extraction, and training a Naive Bayes classifier to predict sentiment.
+This project demonstrates a sentiment analysis pipeline on review data using Python. The pipeline includes data preprocessing,  feature extraction, and training a Naive Bayes classifier to predict sentiment.
 
 ## Libraries
 - `numpy`
